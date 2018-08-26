@@ -1,0 +1,282 @@
+2018/08/26-22:17:12.944 2f28 Delete type=3 #1
+2018/08/26-22:17:42.150 1d8c Level-0 table #5: started
+2018/08/26-22:17:42.501 1d8c Level-0 table #5: 3244371 bytes OK
+2018/08/26-22:17:42.588 1d8c Delete type=0 #3
+2018/08/26-22:17:45.441 1d8c Level-0 table #7: started
+2018/08/26-22:17:45.743 1d8c Level-0 table #7: 3991590 bytes OK
+2018/08/26-22:17:45.783 1d8c Delete type=0 #4
+2018/08/26-22:17:50.479 1d8c Level-0 table #9: started
+2018/08/26-22:17:50.744 1d8c Level-0 table #9: 3321868 bytes OK
+2018/08/26-22:17:50.787 1d8c Delete type=0 #6
+2018/08/26-22:17:54.285 1d8c Compacting 1@0 + 1@1 files
+2018/08/26-22:17:54.495 1d8c Generated table #10: 2792 keys, 3818070 bytes
+2018/08/26-22:17:54.696 1d8c Generated table #11: 22160 keys, 2117844 bytes
+2018/08/26-22:17:54.884 1d8c Generated table #12: 2297 keys, 1261595 bytes
+2018/08/26-22:17:54.923 1d8c Compacted 1@0 + 1@1 files => 7197509 bytes
+2018/08/26-22:17:54.953 1d8c Delete type=2 #7
+2018/08/26-22:17:54.956 1d8c Delete type=2 #9
+2018/08/26-22:17:54.958 1d8c compacted to: files[ 0 3 1 0 0 0 0 ]
+2018/08/26-22:17:54.958 1d8c Level-0 table #14: started
+2018/08/26-22:17:55.182 1d8c Level-0 table #14: 4200699 bytes OK
+2018/08/26-22:17:55.210 1d8c Delete type=0 #8
+2018/08/26-22:17:57.076 1d8c Compacting 1@0 + 3@1 files
+2018/08/26-22:17:57.194 1d8c Generated table #15: 2141 keys, 2107391 bytes
+2018/08/26-22:17:57.299 1d8c Generated table #16: 208 keys, 2121476 bytes
+2018/08/26-22:17:57.441 1d8c Generated table #17: 931 keys, 3442129 bytes
+2018/08/26-22:17:57.652 1d8c Generated table #18: 22160 keys, 2117844 bytes
+2018/08/26-22:17:57.793 1d8c Generated table #19: 2379 keys, 1609331 bytes
+2018/08/26-22:17:57.793 1d8c Compacted 1@0 + 3@1 files => 11398171 bytes
+2018/08/26-22:17:57.836 1d8c Delete type=2 #10
+2018/08/26-22:17:57.838 1d8c Delete type=2 #11
+2018/08/26-22:17:57.839 1d8c Delete type=2 #12
+2018/08/26-22:17:57.840 1d8c Delete type=2 #14
+2018/08/26-22:17:57.841 1d8c compacted to: files[ 0 5 1 0 0 0 0 ]
+2018/08/26-22:17:57.841 1d8c Expanding@1 1+1 to 5+1
+2018/08/26-22:17:57.841 1d8c Compacting 5@1 + 1@2 files
+2018/08/26-22:17:58.072 1d8c Generated table #20: 6927 keys, 2123420 bytes
+2018/08/26-22:17:58.261 1d8c Generated table #21: 4284 keys, 2107901 bytes
+2018/08/26-22:17:58.367 1d8c Generated table #22: 193 keys, 2135699 bytes
+2018/08/26-22:17:58.536 1d8c Generated table #23: 345 keys, 4353670 bytes
+2018/08/26-22:17:58.703 1d8c Generated table #24: 23905 keys, 2115895 bytes
+2018/08/26-22:17:58.845 1d8c Generated table #25: 2449 keys, 1663501 bytes
+2018/08/26-22:17:58.845 1d8c Compacted 5@1 + 1@2 files => 14500086 bytes
+2018/08/26-22:17:59.076 1d8c Delete type=2 #5
+2018/08/26-22:17:59.078 1d8c Delete type=2 #15
+2018/08/26-22:17:59.080 1d8c Delete type=2 #16
+2018/08/26-22:17:59.083 1d8c Delete type=2 #17
+2018/08/26-22:17:59.085 1d8c Delete type=2 #18
+2018/08/26-22:17:59.087 1d8c Delete type=2 #19
+2018/08/26-22:17:59.089 1d8c compacted to: files[ 0 0 6 0 0 0 0 ]
+2018/08/26-22:17:59.090 1d8c Level-0 table #27: started
+2018/08/26-22:17:59.414 1d8c Level-0 table #27: 4280294 bytes OK
+2018/08/26-22:17:59.449 1d8c Delete type=0 #13
+2018/08/26-22:18:01.317 1d8c Compacting 1@1 + 4@2 files
+2018/08/26-22:18:01.513 1d8c Generated table #28: 210 keys, 2101849 bytes
+2018/08/26-22:18:01.632 1d8c Generated table #29: 193 keys, 2114513 bytes
+2018/08/26-22:18:01.795 1d8c Generated table #30: 253 keys, 2103055 bytes
+2018/08/26-22:18:01.981 1d8c Generated table #31: 298 keys, 3180563 bytes
+2018/08/26-22:18:02.167 1d8c Generated table #32: 23905 keys, 2115895 bytes
+2018/08/26-22:18:02.367 1d8c Generated table #33: 2604 keys, 2112202 bytes
+2018/08/26-22:18:02.478 1d8c Generated table #34: 63 keys, 820775 bytes
+2018/08/26-22:18:02.478 1d8c Compacted 1@1 + 4@2 files => 14548852 bytes
+2018/08/26-22:18:02.503 1d8c Delete type=2 #22
+2018/08/26-22:18:02.503 1d8c Delete type=2 #23
+2018/08/26-22:18:02.504 1d8c Delete type=2 #24
+2018/08/26-22:18:02.506 1d8c Delete type=2 #25
+2018/08/26-22:18:02.507 1d8c Delete type=2 #27
+2018/08/26-22:18:02.508 1d8c compacted to: files[ 0 0 9 0 0 0 0 ]
+2018/08/26-22:18:04.062 1d8c Level-0 table #36: started
+2018/08/26-22:18:04.316 1d8c Level-0 table #36: 4235268 bytes OK
+2018/08/26-22:18:04.340 1d8c Delete type=0 #26
+2018/08/26-22:18:07.377 1d8c Compacting 1@1 + 7@2 files
+2018/08/26-22:18:07.559 1d8c Generated table #37: 240 keys, 2105577 bytes
+2018/08/26-22:18:07.740 1d8c Generated table #38: 226 keys, 2101653 bytes
+2018/08/26-22:18:07.859 1d8c Generated table #39: 182 keys, 2107597 bytes
+2018/08/26-22:18:08.027 1d8c Generated table #40: 298 keys, 2137497 bytes
+2018/08/26-22:18:08.263 1d8c Generated table #41: 492 keys, 3986819 bytes
+2018/08/26-22:18:08.467 1d8c Generated table #42: 23905 keys, 2115895 bytes
+2018/08/26-22:18:08.710 1d8c Generated table #43: 2669 keys, 2108548 bytes
+2018/08/26-22:18:08.875 1d8c Generated table #44: 225 keys, 2118818 bytes
+2018/08/26-22:18:08.905 1d8c Generated table #45: 1 keys, 1654 bytes
+2018/08/26-22:18:08.905 1d8c Compacted 1@1 + 7@2 files => 18784058 bytes
+2018/08/26-22:18:08.950 1d8c Delete type=2 #28
+2018/08/26-22:18:08.951 1d8c Delete type=2 #29
+2018/08/26-22:18:08.953 1d8c Delete type=2 #30
+2018/08/26-22:18:08.954 1d8c Delete type=2 #31
+2018/08/26-22:18:08.955 1d8c Delete type=2 #32
+2018/08/26-22:18:08.956 1d8c Delete type=2 #33
+2018/08/26-22:18:08.958 1d8c Delete type=2 #34
+2018/08/26-22:18:08.960 1d8c Delete type=2 #36
+2018/08/26-22:18:08.988 1d8c compacted to: files[ 0 0 11 0 0 0 0 ]
+2018/08/26-22:18:12.021 1d8c Level-0 table #47: started
+2018/08/26-22:18:12.308 1d8c Level-0 table #47: 4182451 bytes OK
+2018/08/26-22:18:12.333 1d8c Delete type=0 #35
+2018/08/26-22:18:14.353 1d8c Compacting 1@1 + 8@2 files
+2018/08/26-22:18:14.532 1d8c Generated table #48: 248 keys, 2104021 bytes
+2018/08/26-22:18:14.685 1d8c Generated table #49: 274 keys, 2112497 bytes
+2018/08/26-22:18:14.843 1d8c Generated table #50: 206 keys, 2109010 bytes
+2018/08/26-22:18:14.980 1d8c Generated table #51: 241 keys, 2131608 bytes
+2018/08/26-22:18:15.098 1d8c Generated table #52: 304 keys, 2119974 bytes
+2018/08/26-22:18:15.245 1d8c Generated table #53: 719 keys, 2109568 bytes
+2018/08/26-22:18:15.352 1d8c Generated table #54: 22 keys, 2495538 bytes
+2018/08/26-22:18:15.586 1d8c Generated table #55: 23905 keys, 2115895 bytes
+2018/08/26-22:18:15.839 1d8c Generated table #56: 2737 keys, 2108586 bytes
+2018/08/26-22:18:16.016 1d8c Generated table #57: 270 keys, 2111353 bytes
+2018/08/26-22:18:16.132 1d8c Generated table #58: 181 keys, 1446658 bytes
+2018/08/26-22:18:16.132 1d8c Compacted 1@1 + 8@2 files => 22964708 bytes
+2018/08/26-22:18:16.163 1d8c Delete type=2 #37
+2018/08/26-22:18:16.165 1d8c Delete type=2 #38
+2018/08/26-22:18:16.168 1d8c Delete type=2 #39
+2018/08/26-22:18:16.171 1d8c Delete type=2 #40
+2018/08/26-22:18:16.173 1d8c Delete type=2 #41
+2018/08/26-22:18:16.176 1d8c Delete type=2 #42
+2018/08/26-22:18:16.178 1d8c Delete type=2 #43
+2018/08/26-22:18:16.180 1d8c Delete type=2 #44
+2018/08/26-22:18:16.183 1d8c Delete type=2 #47
+2018/08/26-22:18:16.186 1d8c compacted to: files[ 0 0 14 0 0 0 0 ]
+2018/08/26-22:18:19.724 1d8c Level-0 table #60: started
+2018/08/26-22:18:19.995 1d8c Level-0 table #60: 4179709 bytes OK
+2018/08/26-22:18:20.027 1d8c Delete type=0 #46
+2018/08/26-22:18:22.834 1d8c Compacting 1@1 + 10@2 files
+2018/08/26-22:18:23.143 1d8c Generated table #61: 296 keys, 2107732 bytes
+2018/08/26-22:18:23.281 1d8c Generated table #62: 236 keys, 2102072 bytes
+2018/08/26-22:18:23.437 1d8c Generated table #63: 199 keys, 2108331 bytes
+2018/08/26-22:18:23.567 1d8c Generated table #64: 245 keys, 2104174 bytes
+2018/08/26-22:18:23.768 1d8c Generated table #65: 305 keys, 2114131 bytes
+2018/08/26-22:18:23.964 1d8c Generated table #66: 378 keys, 2105921 bytes
+2018/08/26-22:18:24.186 1d8c Generated table #67: 611 keys, 3452866 bytes
+2018/08/26-22:18:24.391 1d8c Generated table #68: 23905 keys, 2115895 bytes
+2018/08/26-22:18:24.606 1d8c Generated table #69: 2737 keys, 2108586 bytes
+2018/08/26-22:18:24.773 1d8c Generated table #70: 401 keys, 2110370 bytes
+2018/08/26-22:18:24.908 1d8c Generated table #71: 296 keys, 2105456 bytes
+2018/08/26-22:18:24.984 1d8c Generated table #72: 46 keys, 504793 bytes
+2018/08/26-22:18:24.984 1d8c Compacted 1@1 + 10@2 files => 25040327 bytes
+2018/08/26-22:18:25.008 1d8c Delete type=2 #49
+2018/08/26-22:18:25.010 1d8c Delete type=2 #50
+2018/08/26-22:18:25.013 1d8c Delete type=2 #51
+2018/08/26-22:18:25.015 1d8c Delete type=2 #52
+2018/08/26-22:18:25.018 1d8c Delete type=2 #53
+2018/08/26-22:18:25.021 1d8c Delete type=2 #54
+2018/08/26-22:18:25.023 1d8c Delete type=2 #55
+2018/08/26-22:18:25.026 1d8c Delete type=2 #56
+2018/08/26-22:18:25.028 1d8c Delete type=2 #57
+2018/08/26-22:18:25.030 1d8c Delete type=2 #58
+2018/08/26-22:18:25.033 1d8c Delete type=2 #60
+2018/08/26-22:18:25.036 1d8c compacted to: files[ 0 0 16 0 0 0 0 ]
+2018/08/26-22:18:27.231 1d8c Level-0 table #74: started
+2018/08/26-22:18:27.474 1d8c Level-0 table #74: 4248942 bytes OK
+2018/08/26-22:18:27.500 1d8c Delete type=0 #59
+2018/08/26-22:18:30.597 1d8c Compacting 1@0 + 0@1 files
+2018/08/26-22:18:30.724 1d8c Generated table #75: 212 keys, 2106149 bytes
+2018/08/26-22:18:30.817 1d8c Generated table #76: 233 keys, 1027153 bytes
+2018/08/26-22:18:30.919 1d8c Generated table #77: 97 keys, 1115620 bytes
+2018/08/26-22:18:30.919 1d8c Compacted 1@0 + 0@1 files => 4248922 bytes
+2018/08/26-22:18:30.952 1d8c Delete type=2 #74
+2018/08/26-22:18:30.953 1d8c compacted to: files[ 0 3 16 0 0 0 0 ]
+2018/08/26-22:18:32.171 1d8c Compacting 1@1 + 5@2 files
+2018/08/26-22:18:32.424 1d8c Generated table #78: 325 keys, 2104051 bytes
+2018/08/26-22:18:32.627 1d8c Generated table #79: 800 keys, 4150193 bytes
+2018/08/26-22:18:32.814 1d8c Generated table #80: 23905 keys, 2115895 bytes
+2018/08/26-22:18:32.984 1d8c Generated table #81: 2737 keys, 2108586 bytes
+2018/08/26-22:18:33.147 1d8c Generated table #82: 446 keys, 2104217 bytes
+2018/08/26-22:18:33.296 1d8c Generated table #83: 52 keys, 337934 bytes
+2018/08/26-22:18:33.296 1d8c Compacted 1@1 + 5@2 files => 12920876 bytes
+2018/08/26-22:18:33.358 1d8c Delete type=2 #66
+2018/08/26-22:18:33.359 1d8c Delete type=2 #67
+2018/08/26-22:18:33.361 1d8c Delete type=2 #68
+2018/08/26-22:18:33.362 1d8c Delete type=2 #69
+2018/08/26-22:18:33.363 1d8c Delete type=2 #70
+2018/08/26-22:18:33.365 1d8c Delete type=2 #76
+2018/08/26-22:18:33.366 1d8c compacted to: files[ 0 2 17 0 0 0 0 ]
+2018/08/26-22:18:35.544 1d8c Level-0 table #85: started
+2018/08/26-22:18:35.820 1d8c Level-0 table #85: 4187567 bytes OK
+2018/08/26-22:18:35.846 1d8c Delete type=0 #73
+2018/08/26-22:18:38.356 1d8c Compacting 1@0 + 2@1 files
+2018/08/26-22:18:38.632 1d8c Generated table #86: 239 keys, 2108569 bytes
+2018/08/26-22:18:38.777 1d8c Generated table #87: 211 keys, 2119499 bytes
+2018/08/26-22:18:38.887 1d8c Generated table #88: 183 keys, 731065 bytes
+2018/08/26-22:18:39.063 1d8c Generated table #89: 291 keys, 2107864 bytes
+2018/08/26-22:18:39.141 1d8c Generated table #90: 45 keys, 342148 bytes
+2018/08/26-22:18:39.141 1d8c Compacted 1@0 + 2@1 files => 7409145 bytes
+2018/08/26-22:18:39.166 1d8c Delete type=2 #75
+2018/08/26-22:18:39.167 1d8c Delete type=2 #77
+2018/08/26-22:18:39.168 1d8c Delete type=2 #85
+2018/08/26-22:18:39.170 1d8c compacted to: files[ 0 5 17 0 0 0 0 ]
+2018/08/26-22:18:42.388 1d8c Compacting 1@1 + 3@2 files
+2018/08/26-22:18:42.676 1d8c Generated table #91: 801 keys, 2107323 bytes
+2018/08/26-22:18:42.839 1d8c Generated table #92: 181 keys, 2773775 bytes
+2018/08/26-22:18:43.104 1d8c Generated table #93: 23905 keys, 2115895 bytes
+2018/08/26-22:18:43.262 1d8c Generated table #94: 2738 keys, 2108606 bytes
+2018/08/26-22:18:43.262 1d8c Compacted 1@1 + 3@2 files => 9105599 bytes
+2018/08/26-22:18:43.295 1d8c Delete type=2 #79
+2018/08/26-22:18:43.297 1d8c Delete type=2 #80
+2018/08/26-22:18:43.299 1d8c Delete type=2 #81
+2018/08/26-22:18:43.300 1d8c Delete type=2 #88
+2018/08/26-22:18:43.302 1d8c compacted to: files[ 0 4 18 0 0 0 0 ]
+2018/08/26-22:18:45.097 1d8c Level-0 table #96: started
+2018/08/26-22:18:45.386 1d8c Level-0 table #96: 4188962 bytes OK
+2018/08/26-22:18:45.407 1d8c Delete type=0 #84
+2018/08/26-22:18:47.216 1d8c Compacting 1@0 + 4@1 files
+2018/08/26-22:18:47.469 1d8c Generated table #97: 274 keys, 2106500 bytes
+2018/08/26-22:18:47.600 1d8c Generated table #98: 194 keys, 2102221 bytes
+2018/08/26-22:18:47.731 1d8c Generated table #99: 260 keys, 2112151 bytes
+2018/08/26-22:18:47.824 1d8c Generated table #100: 194 keys, 875985 bytes
+2018/08/26-22:18:47.941 1d8c Generated table #101: 382 keys, 2112392 bytes
+2018/08/26-22:18:48.063 1d8c Generated table #102: 238 keys, 1557504 bytes
+2018/08/26-22:18:48.063 1d8c Compacted 1@0 + 4@1 files => 10866753 bytes
+2018/08/26-22:18:48.085 1d8c Delete type=2 #86
+2018/08/26-22:18:48.086 1d8c Delete type=2 #87
+2018/08/26-22:18:48.087 1d8c Delete type=2 #89
+2018/08/26-22:18:48.088 1d8c Delete type=2 #90
+2018/08/26-22:18:48.089 1d8c Delete type=2 #96
+2018/08/26-22:18:48.090 1d8c compacted to: files[ 0 6 18 0 0 0 0 ]
+2018/08/26-22:18:48.090 1d8c Compacting 1@1 + 4@2 files
+2018/08/26-22:18:48.289 1d8c Generated table #103: 656 keys, 2105411 bytes
+2018/08/26-22:18:48.510 1d8c Generated table #104: 224 keys, 2119022 bytes
+2018/08/26-22:18:48.692 1d8c Generated table #105: 278 keys, 2136521 bytes
+2018/08/26-22:18:48.750 1d8c Generated table #106: 64 keys, 803771 bytes
+2018/08/26-22:18:48.750 1d8c Compacted 1@1 + 4@2 files => 7164725 bytes
+2018/08/26-22:18:48.772 1d8c Delete type=2 #71
+2018/08/26-22:18:48.773 1d8c Delete type=2 #72
+2018/08/26-22:18:48.775 1d8c Delete type=2 #82
+2018/08/26-22:18:48.776 1d8c Delete type=2 #83
+2018/08/26-22:18:48.777 1d8c Delete type=2 #101
+2018/08/26-22:18:48.779 1d8c compacted to: files[ 0 5 18 0 0 0 0 ]
+2018/08/26-22:18:51.658 1d8c Level-0 table #108: started
+2018/08/26-22:18:51.953 1d8c Level-0 table #108: 4170695 bytes OK
+2018/08/26-22:18:51.982 1d8c Delete type=0 #95
+2018/08/26-22:18:54.480 1d8c Compacting 1@0 + 5@1 files
+2018/08/26-22:18:54.643 1d8c Generated table #109: 296 keys, 2117270 bytes
+2018/08/26-22:18:54.799 1d8c Generated table #110: 248 keys, 2108086 bytes
+2018/08/26-22:18:54.950 1d8c Generated table #111: 248 keys, 2119781 bytes
+2018/08/26-22:18:55.148 1d8c Generated table #112: 234 keys, 2104883 bytes
+2018/08/26-22:18:55.332 1d8c Generated table #113: 508 keys, 1865631 bytes
+2018/08/26-22:18:55.501 1d8c Generated table #114: 451 keys, 2103977 bytes
+2018/08/26-22:18:55.590 1d8c Generated table #115: 81 keys, 505350 bytes
+2018/08/26-22:18:55.590 1d8c Compacted 1@0 + 5@1 files => 12924978 bytes
+2018/08/26-22:18:55.612 1d8c Delete type=2 #97
+2018/08/26-22:18:55.614 1d8c Delete type=2 #98
+2018/08/26-22:18:55.616 1d8c Delete type=2 #99
+2018/08/26-22:18:55.617 1d8c Delete type=2 #100
+2018/08/26-22:18:55.619 1d8c Delete type=2 #102
+2018/08/26-22:18:55.620 1d8c Delete type=2 #108
+2018/08/26-22:18:55.622 1d8c compacted to: files[ 0 7 18 0 0 0 0 ]
+2018/08/26-22:18:55.622 1d8c Compacting 1@1 + 5@2 files
+2018/08/26-22:18:55.757 1d8c Generated table #116: 765 keys, 2106112 bytes
+2018/08/26-22:18:55.915 1d8c Generated table #117: 209 keys, 2109115 bytes
+2018/08/26-22:18:56.021 1d8c Generated table #118: 293 keys, 2101692 bytes
+2018/08/26-22:18:56.123 1d8c Generated table #119: 297 keys, 2105421 bytes
+2018/08/26-22:18:56.211 1d8c Generated table #120: 110 keys, 847908 bytes
+2018/08/26-22:18:56.211 1d8c Compacted 1@1 + 5@2 files => 9270248 bytes
+2018/08/26-22:18:56.243 1d8c Delete type=2 #45
+2018/08/26-22:18:56.244 1d8c Delete type=2 #103
+2018/08/26-22:18:56.245 1d8c Delete type=2 #104
+2018/08/26-22:18:56.247 1d8c Delete type=2 #105
+2018/08/26-22:18:56.248 1d8c Delete type=2 #106
+2018/08/26-22:18:56.250 1d8c Delete type=2 #114
+2018/08/26-22:18:56.251 1d8c compacted to: files[ 0 6 18 0 0 0 0 ]
+2018/08/26-22:18:56.276 1d8c Moved #115 to level-2 505350 bytes OK: files[ 0 5 19 0 0 0 0 ]
+2018/08/26-22:18:59.834 1d8c Compacting 1@1 + 3@2 files
+2018/08/26-22:19:00.111 1d8c Generated table #121: 290 keys, 2104560 bytes
+2018/08/26-22:19:00.361 1d8c Generated table #122: 197 keys, 2102466 bytes
+2018/08/26-22:19:00.539 1d8c Generated table #123: 270 keys, 2102077 bytes
+2018/08/26-22:19:00.733 1d8c Generated table #124: 168 keys, 2101024 bytes
+2018/08/26-22:19:00.814 1d8c Generated table #125: 3 keys, 12515 bytes
+2018/08/26-22:19:00.814 1d8c Compacted 1@1 + 3@2 files => 8422642 bytes
+2018/08/26-22:19:00.849 1d8c Delete type=2 #62
+2018/08/26-22:19:00.851 1d8c Delete type=2 #63
+2018/08/26-22:19:00.852 1d8c Delete type=2 #64
+2018/08/26-22:19:00.853 1d8c Delete type=2 #110
+2018/08/26-22:19:00.855 1d8c compacted to: files[ 0 4 21 0 0 0 0 ]
+2018/08/26-22:19:00.855 1d8c Compacting 1@1 + 3@2 files
+2018/08/26-22:19:00.995 1d8c Generated table #126: 232 keys, 2106046 bytes
+2018/08/26-22:19:01.141 1d8c Generated table #127: 327 keys, 2104926 bytes
+2018/08/26-22:19:01.325 1d8c Generated table #128: 292 keys, 2104847 bytes
+2018/08/26-22:19:01.506 1d8c Generated table #129: 810 keys, 2105358 bytes
+2018/08/26-22:19:01.547 1d8c Generated table #130: 4 keys, 9227 bytes
+2018/08/26-22:19:01.547 1d8c Compacted 1@1 + 3@2 files => 8430404 bytes
+2018/08/26-22:19:01.568 1d8c Delete type=2 #65
+2018/08/26-22:19:01.570 1d8c Delete type=2 #78
+2018/08/26-22:19:01.571 1d8c Delete type=2 #91
+2018/08/26-22:19:01.572 1d8c Delete type=2 #112
+2018/08/26-22:19:01.574 1d8c compacted to: files[ 0 3 23 0 0 0 0 ]
