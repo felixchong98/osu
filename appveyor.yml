@@ -10,6 +10,7 @@ install:
   - cmd: choco install resharper-clt -y
   - cmd: choco install nvika -y
   - cmd: dotnet tool install CodeFileSanity --version 0.0.16 --global
+  - cmd: choco install opencover.portable
 before_build:
   - cmd: CodeFileSanity
   - cmd: nuget restore -verbosity quiet
